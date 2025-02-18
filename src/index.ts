@@ -1,4 +1,4 @@
-const url = 'https://Daniel.github.io/riddles-api/riddles.json';
+const url = 'https://github.com/DanneN22/Daniel.github.io-riddles-api.git';
 const btnRiddle = document.querySelector('#btn-riddle') as HTMLButtonElement | null;
 const btnAnswer = document.querySelector('#btn-answer') as HTMLButtonElement | null;
 const btnHintOne = document.querySelector('#btn-hintOne') as HTMLButtonElement | null;
