@@ -7,7 +7,7 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
         step((generator = generator.apply(thisArg, _arguments || [])).next());
     });
 };
-const url = 'https://Daniel.github.io/riddles-api/riddles.json';
+const url = 'https://github.com/DanneN22/Daniel.github.io-riddles-api.git';
 const btnRiddle = document.querySelector('#btn-riddle');
 const btnAnswer = document.querySelector('#btn-answer');
 const btnHintOne = document.querySelector('#btn-hintOne');
